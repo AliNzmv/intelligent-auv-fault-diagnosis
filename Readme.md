@@ -52,4 +52,4 @@ This repository contains the simulation and implementation of intelligent contro
 
 * **Ali Nezamivand Chegeni**
 * Supervisor: Dr. Farzaneh Abdollahi
-* Spring 1404 – Faculty of Electrical Engineering, UOT
+* Spring 1404 – Faculty of Electrical Engineering, AUT
